@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_pattern/common/ui/base_widget.dart';
+import 'package:flutter_pattern/app/common/ui/base_widget.dart';
 
 class Home extends BaseWidget {
   const Home({Key? key}) : super(key: key);

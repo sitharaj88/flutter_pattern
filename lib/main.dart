@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_pattern/common/ui/routes/app_pages.dart';
-import 'package:flutter_pattern/common/ui/routes/page_routes.dart';
-import 'package:flutter_pattern/screens/home/home.dart';
+import 'package:flutter_pattern/app/common/ui/routes/app_pages.dart';
+import 'package:flutter_pattern/app/common/ui/routes/page_routes.dart';
 import 'package:get/get.dart';
 
 void main() {
